@@ -1,0 +1,13 @@
+D:\git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.deps.json
+D:\git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.dll
+D:\git\CalcSample\CalcSample\CalcSample\bin\Debug\netstandard2.0\CalcSample.pdb
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.csprojAssemblyReference.cache
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.csproj.CoreCompileInputs.cache
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.AssemblyInfoInputs.cache
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.AssemblyInfo.cs
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\XamlC.stamp
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.dll
+D:\git\CalcSample\CalcSample\CalcSample\obj\Debug\netstandard2.0\CalcSample.pdb
